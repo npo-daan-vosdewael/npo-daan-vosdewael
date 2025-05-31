@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Daan!
 
-<!--
-**npo-daan-vosdewael/npo-daan-vosdewael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Senior Frontend Developer @ [NPO](https://npo.nl/)  
+🎧 Currently working on [NPO Luister](https://npo.nl/luister)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Our Tech Stack & Focus
+
+- React / Next.js  
+- TypeScript / GraphQL  
+- Modern vanilla CSS  
+- Accessibility  
+
+---
+
+## 📫 Reach Me
+- [Email](mailto:daan.vosdewael@npo.nl)  
+- [LinkedIn](https://www.linkedin.com/in/daanvosdewael)  
